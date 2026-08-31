@@ -1,0 +1,17 @@
+# Abhängigkeiten
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS-Dateien
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Umgebungsvariablen
+.env
+.env.local
